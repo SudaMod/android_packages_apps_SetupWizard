@@ -51,7 +51,7 @@
   <string name="location_network_gms"><b>Uso del servicio de ubicación de Google</b> para permitir que las aplicaciones determinen la ubicación. Esto significa enviar información anónima de la ubicación a Google, incluso cuando no haya aplicaciones usando este servicio.</string>
   <string name="setup_mobile_data">Activar datos móviles</string>
   <string name="setup_mobile_data_no_service">Sin servicio</string>
-  <string name="setup_mobile_data_emergency_only">Solo llamadas de emergencia</string>
+  <string name="setup_mobile_data_emergency_only">Sólo llamadas de emergencia</string>
   <string name="enable_mobile_data_summary">¿Quieres usar los datos móviles durante la instalación? Activar los datos móviles puede provocar cargos de datos.</string>
   <string name="no">No</string>
   <string name="yes">Sí</string>
@@ -66,11 +66,11 @@
   <string name="services_apply_theme">Aplicar el tema <xliff:g id="name" example="Material">%s</xliff:g></string>
   <string name="services_apply_theme_label"><xliff:g id="name" example="Apply the Material theme">%s</xliff:g> permite un estilo visual único para sus iconos, fondo de pantalla y más.</string>
   <string name="services_os_nav_keys_label"><b>Usar las teclas de navegación en pantalla</b> en vez de las teclas físicas.</string>
-  <string name="services_os_privacy_guard"><b>Activar Guardián de privacidad</b> para sus datos personales como contactos, mensajes o llamada registros, no está disponible para aplicaciones recién instaladas</string>
+  <string name="services_os_privacy_guard"><b>Activar «Guardián de privacidad»</b> para sus datos personales como contactos, mensajes o llamada registros, no está disponible para aplicaciones recién instaladas</string>
   <string name="setup_unlock">Desbloquear</string>
   <string name="setup_device_locked">Este dispositivo ha sido bloqueado por el usuario.</string>
   <string name="setup_require_cyanogen_label"><b>Se requiere la contraseña de tu cuenta</b> para poder utilizar el dispositivo incluso después de un restablecimiento de fábrica.</string>
-  <string name="setup_device_locked_instructions"><i>Para activar y desactivar esta función, ve a Ajustes &gt; Seguridad</i></string>
+  <string name="setup_device_locked_instructions"><i>Para activar y desactivar esta función, ve a «Ajustes &gt; Seguridad»</i></string>
   <!-- Fingerprint setup -->
   <string name="settings_fingerprint_setup_title">Selecciona el tipo de copia de seguridad de pantalla bloqueada</string>
   <string name="settings_fingerprint_setup_details">¿Cómo quieres bloquear tu pantalla?</string>
